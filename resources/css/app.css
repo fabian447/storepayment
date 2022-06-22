@@ -1,0 +1,33 @@
+@import "./bootstrap.css";
+
+body{
+    background-color: #f0f4f8;
+}
+
+.backgroundCustom{
+    background-color: #0a6c74;
+}
+
+.backgroundCustomButton{
+    background-color: #0a6c74;
+}
+
+.backgroundCustomButton:hover{
+    background-color: #183f42;
+}
+
+.textSm{
+    font-size: .875rem;
+}
+
+.textLg{
+    font-size: 1.5rem;
+}
+
+.textLight{
+    font-weight: 400;
+}
+
+.paymentStatus{
+    min-height: 260.8px !important;
+}
